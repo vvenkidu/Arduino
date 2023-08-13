@@ -1,2 +1,2 @@
 # Arduino
-Basics of Arduino programming
+Here we will include code and documentation for simple Arduino projects.
